@@ -9,7 +9,7 @@ In building the dashboard, pages were created with different visualizations and 
 
 ## Dasboard description:
 
-# Landing Page
+## Landing Page
 - An explanation of the project.
 - Links to each visualizations page. THe landing page contains a sidebar with a  preview images of each plot, and clicking an image should take the user to that visualization.
 
